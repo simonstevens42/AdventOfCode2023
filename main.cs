@@ -1,5 +1,6 @@
 ﻿// Advent of Code 2023
 
+using System.Runtime.InteropServices;
 using System.Text.RegularExpressions;
 
 partial class Program
@@ -130,11 +131,18 @@ Game 5: 6 red, 1 blue, 3 green; 2 blue, 1 red, 2 green";
         int cubesGreen = 13;
         int cubesBlue = 14;
 
+        int id = 0;
+
         for (int i = 0; i < games.Length; i++)
         {
+            id++;
+
             games[i] = Regex.Replace(games[i], @"^Game \d+: ", string.Empty);
 
             string[] gamesSplit = games[i].Split(";", StringSplitOptions.RemoveEmptyEntries);
+
+            int count = 0;
+            int countAll = 0;
 
             foreach (string game in gamesSplit)
             {
@@ -175,8 +183,15 @@ Game 5: 6 red, 1 blue, 3 green; 2 blue, 1 red, 2 green";
 
                 if ((check == 3 && colorSum == 3) || (check == 2 && colorSum == 2) || (check == 1 && colorSum == 1))
                 {
-                    gamesCompleted++;
+                    count++;
                 }
+
+                countAll++;
+            }
+
+            if (count == countAll)
+            {
+                gamesCompleted += id;
             }
         }
 

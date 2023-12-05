@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DEV\\AdventOfCode2023\\AdventOfCode2023.csproj": {}
+    "C:\\Stevens-Automation\\AdventOfCode2023\\AdventOfCode2023.csproj": {}
   },
   "projects": {
-    "D:\\DEV\\AdventOfCode2023\\AdventOfCode2023.csproj": {
+    "C:\\Stevens-Automation\\AdventOfCode2023\\AdventOfCode2023.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DEV\\AdventOfCode2023\\AdventOfCode2023.csproj",
+        "projectUniqueName": "C:\\Stevens-Automation\\AdventOfCode2023\\AdventOfCode2023.csproj",
         "projectName": "AdventOfCode2023",
-        "projectPath": "D:\\DEV\\AdventOfCode2023\\AdventOfCode2023.csproj",
-        "packagesPath": "C:\\Users\\sis\\.nuget\\packages\\",
-        "outputPath": "D:\\DEV\\AdventOfCode2023\\obj\\",
+        "projectPath": "C:\\Stevens-Automation\\AdventOfCode2023\\AdventOfCode2023.csproj",
+        "packagesPath": "C:\\Users\\Simon Stevens\\.nuget\\packages\\",
+        "outputPath": "C:\\Stevens-Automation\\AdventOfCode2023\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Simon Stevens\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

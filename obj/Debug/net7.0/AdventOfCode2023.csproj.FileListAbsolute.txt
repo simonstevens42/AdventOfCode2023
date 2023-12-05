@@ -13,3 +13,17 @@ D:\DEV\AdventOfCode2023\obj\Debug\net7.0\refint\AdventOfCode2023.dll
 D:\DEV\AdventOfCode2023\obj\Debug\net7.0\AdventOfCode2023.pdb
 D:\DEV\AdventOfCode2023\obj\Debug\net7.0\AdventOfCode2023.genruntimeconfig.cache
 D:\DEV\AdventOfCode2023\obj\Debug\net7.0\ref\AdventOfCode2023.dll
+C:\Stevens-Automation\AdventOfCode2023\bin\Debug\net7.0\AdventOfCode2023.exe
+C:\Stevens-Automation\AdventOfCode2023\bin\Debug\net7.0\AdventOfCode2023.deps.json
+C:\Stevens-Automation\AdventOfCode2023\bin\Debug\net7.0\AdventOfCode2023.runtimeconfig.json
+C:\Stevens-Automation\AdventOfCode2023\bin\Debug\net7.0\AdventOfCode2023.dll
+C:\Stevens-Automation\AdventOfCode2023\bin\Debug\net7.0\AdventOfCode2023.pdb
+C:\Stevens-Automation\AdventOfCode2023\obj\Debug\net7.0\AdventOfCode2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stevens-Automation\AdventOfCode2023\obj\Debug\net7.0\AdventOfCode2023.AssemblyInfoInputs.cache
+C:\Stevens-Automation\AdventOfCode2023\obj\Debug\net7.0\AdventOfCode2023.AssemblyInfo.cs
+C:\Stevens-Automation\AdventOfCode2023\obj\Debug\net7.0\AdventOfCode2023.csproj.CoreCompileInputs.cache
+C:\Stevens-Automation\AdventOfCode2023\obj\Debug\net7.0\AdventOfCode2023.dll
+C:\Stevens-Automation\AdventOfCode2023\obj\Debug\net7.0\refint\AdventOfCode2023.dll
+C:\Stevens-Automation\AdventOfCode2023\obj\Debug\net7.0\AdventOfCode2023.pdb
+C:\Stevens-Automation\AdventOfCode2023\obj\Debug\net7.0\AdventOfCode2023.genruntimeconfig.cache
+C:\Stevens-Automation\AdventOfCode2023\obj\Debug\net7.0\ref\AdventOfCode2023.dll
