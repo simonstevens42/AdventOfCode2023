@@ -10,7 +10,8 @@ partial class Program
         // Day01PartOne();
         // Day01PartTwo();
         // Day02PartOne();
-        Day02PartTwo();
+        // Day02PartTwo();
+        Day03PartOne();
     }
 
     // Day 01 - Part One
@@ -270,5 +271,19 @@ Game 5: 6 red, 1 blue, 3 green; 2 blue, 1 red, 2 green";
         }
 
         Console.WriteLine(sumPowerSets);
+    }
+    static void Day03PartOne()
+    {
+        string input = 
+@"467..114..
+...*......
+..35..633.
+......#...
+617*......
+.....+.58.
+..592.....
+......755.
+...$.*....
+.664.598..";
     }
 }
